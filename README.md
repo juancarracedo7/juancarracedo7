@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Cruz Carracedo
 #### I am a passionate Full-Stack Developer from Agentina
-![I am a passionate Full-Stack Developer from Agentina]([https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877](https://c.tenor.com/CzdMW7wnLn8AAAAC/coding.gif))
+![I am a passionate Full-Stack Developer from Agentina](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877
 
 About Me:
 
