@@ -3,8 +3,11 @@
 ![I am a passionate Full-Stack Developer from Agentina, living in Italy](https://i0.wp.com/alessandropagano.net/blog/wp-content/uploads/sites/2/2019/06/1_jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 About Me:
+
  ✍️ Excited and motivated to learn something new every day
+ 
  🚀 Looking for new experiences and opportunities in the IT world
+ 
  🌱 I seek professional and personal growth, focused on teamwork
 
 
