@@ -17,7 +17,7 @@ About Me:
 Skills: HTML | CSS | JAVASCRIPT | REACT JS | REDUX | NODE JS | EXPRESS | SEQUELIZE | PostgreSQL
 
 
-
+Contact Me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juancarracedo7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juancarracedodev/)  
 Mail : juann.carracedo7@gmail.com
 
