@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Cruz Carracedo
-#### I am a passionate Full-Stack Developer from Agentina, living in Italy
-![I am a passionate Full-Stack Developer from Agentina, living in Italy](https://i0.wp.com/alessandropagano.net/blog/wp-content/uploads/sites/2/2019/06/1_jB76MLZjiNhGSQQvxm7LSQ.gif)
+#### I am a passionate Full-Stack Developer from Agentina
+![I am a passionate Full-Stack Developer from Agentina](https://i0.wp.com/alessandropagano.net/blog/wp-content/uploads/sites/2/2019/06/1_jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 About Me:
 
