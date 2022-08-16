@@ -4,7 +4,7 @@
 
 About Me:
 
- 🌎 I am an Argentinian living in Italy, I really like to travel
+ 🌎 I am an Argentinian living in Italy
 
  ✍️ Excited and motivated to learn something new every day
  
