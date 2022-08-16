@@ -16,7 +16,7 @@ About Me:
 
 
 
-Skills: HTML | CSS | JAVASCRIPT | REACT JS | REDUX | NODE JS | EXPRESS | SEQUELIZE | PostgreSQL
+Skills⚔️: HTML | CSS | JAVASCRIPT | REACT JS | REDUX | NODE JS | EXPRESS | SEQUELIZE | PostgreSQL
 
 
 Contact Me :
