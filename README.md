@@ -4,7 +4,9 @@
 
 About Me:
  ✍️ Excited and motivated to learn something new every day
+ 
  🚀 Looking for new experiences and opportunities in the IT world
+ 
  🌱 I seek professional and personal growth, focused on teamwork
 
 
