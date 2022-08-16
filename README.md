@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Cruz Carracedo
 #### I am a passionate Full-Stack Developer from Agentina
-![I am a passionate Full-Stack Developer from Agentina](https://c.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)
+![I am a passionate Full-Stack Developer from Agentina](https://i.imgur.com/bHA8KE7.gif)
 
 About Me:
 
