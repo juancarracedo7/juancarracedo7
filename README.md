@@ -4,6 +4,8 @@
 
 About Me:
 
+ 🌎 I am an Argentine living in Italy, I really like to travel
+
  ✍️ Excited and motivated to learn something new every day
  
  🚀 Looking for new experiences and opportunities in the IT world
