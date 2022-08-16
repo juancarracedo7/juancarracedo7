@@ -12,6 +12,8 @@ About Me:
  
  🌱 I seek professional and personal growth, focused on teamwork
 
+ 🔥 I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best
+
 
 
 Skills: HTML | CSS | JAVASCRIPT | REACT JS | REDUX | NODE JS | EXPRESS | SEQUELIZE | PostgreSQL
